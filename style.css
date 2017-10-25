@@ -1,0 +1,42 @@
+h1{
+			font-family:fantasy;
+			color: blue;
+			background-image: url("lsd.gif");
+			font-size:3em;
+		}
+		body{
+			background-color: rgb(252, 217, 113);
+			text-align: center;
+		}
+		h3{
+			font-weight: bold;
+			font-size:2em;
+		}
+		p{
+			color: green;
+			
+			font-weight: bold;
+		}
+		#pic1{
+			float: center;
+			transform: rotate(90deg);
+			border-color: transparent;
+			
+		}
+		#pic2{
+			float: center;
+			transform: rotate(90deg);
+		}
+		#p1{
+			color: black;
+		}
+		#tblTest{
+			
+			
+		}
+		
+		.myClass {
+		  border-color:blue;
+		  border-width:4px;
+		  border-style:solid;
+		}
